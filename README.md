@@ -1,0 +1,2 @@
+# laughing-spork
+Ethan and Noah go to the movie theater and purchase refreshments for their friends.  Ethan spends a total of $26.75 on 3 drinks and 5 bags of popcorn.  Noah spends a total of $18.50 on 9 drinks and 2 bags of popcorn.  Write a system of equations that can be used to find the price of one drink and the price of one bag of popcorn.  Using these equations, determine and state the price of a drink, to the nearest cent.
